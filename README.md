@@ -6,6 +6,5 @@ This is a basic Python Code for the game with functionalities like:
 	-> Allows user to input the number of rounds.
 	-> Keeps score of each round and the total score at the end.
 	-> At the end, asks user if he wants to continue.
-	
-There is a Detail file that has some questions and answers asked in an interview for California project.
+
 
